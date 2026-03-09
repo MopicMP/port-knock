@@ -1,0 +1,5 @@
+[
+  "tests/test_port_knock.py::TestKnock::test_basic",
+  "tests/test_port_knock.py::TestKnock::test_empty",
+  "tests/test_port_knock.py::TestKnock::test_type_error"
+]
